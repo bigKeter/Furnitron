@@ -10,8 +10,8 @@
 
 ## Model Development
 
-### Named Entity Recognition (NER) 📝
-- **Architecture** : Adopted Transformer-based architecture for its excellence in NER tasks.
+### Transformer-based Classifier
+- **Architecture** : Adopted Transformer-based architecture for its excellence in classification tasks.
 
 ### Dataset 📊
 - **Creation** : Built a labeled dataset from e-commerce giant Flipkart, focusing on a balanced mix of product names and other text types.
