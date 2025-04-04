@@ -2,7 +2,7 @@
 
 ## Assignment Overview
 
-**Furnitron** is a web scraping and machine learning projet focused on extracting product names from furniture store websites. The project combines cutting-edge techniques in data extraction and machine learning to deliver robust and efficient solutions. Crafting it entailed developing a model with the following key steps:
+**Furnitron** is a web scraping and machine learning project focused on extracting product names from furniture store websites. The project combines cutting-edge techniques in data extraction and machine learning to deliver robust and efficient solutions. Crafting it entailed developing a model with the following key steps:
 
 1. **Model Training**: Fine-tuning a model to accurately identify "product name" entities within various texts.
 2. **Web Crawling**: Gathering text data from an array of furniture store web pages.
